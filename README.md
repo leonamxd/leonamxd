@@ -3,7 +3,7 @@
 
 - 🔙 Desenvolvedor backend || ASP.NET CORE
 - 🖥 Estudando Análise e Desenvolvimento de Sistemas
-- 📱 Contate-me via E-mail: <a href = "mailto:leonamgm18@gmail.com"></a>
+- 📱 Contate-me via E-mail: <a href = "mailto:leonamgm18@gmail.com">leonamgm18@gmail.com</a>
 
 <div align="center">
   <a href="https://github.com/leonamxd">
